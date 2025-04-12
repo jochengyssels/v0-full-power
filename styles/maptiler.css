@@ -1,0 +1,13 @@
+.maplibregl-popup-content {
+  padding: 10px;
+  border-radius: 6px;
+  max-width: 200px;
+}
+
+.kiteschool-marker {
+  transition: all 0.2s ease;
+}
+
+.kiteschool-marker:hover {
+  transform: scale(1.2);
+}

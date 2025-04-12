@@ -1,0 +1,26 @@
+.mapboxgl-popup-content {
+  padding: 12px;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  border: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+.mapboxgl-popup-close-button {
+  display: none;
+}
+
+.kitespot-marker {
+  transition: all 0.2s ease;
+}
+
+.kitespot-marker:hover {
+  transform: scale(1.2);
+}
+
+.mapboxgl-ctrl-logo {
+  display: none !important;
+}
+
+.mapboxgl-ctrl-attrib {
+  font-size: 10px;
+}
